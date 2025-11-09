@@ -103,21 +103,6 @@ I'm a **PhD student** at Texas Tech University, where I bridge the fascinating w
 ![Gulp](https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
 
 ## 🔬 Featured Research & Publications
 
@@ -210,9 +195,9 @@ current_focus = {
 I'm always excited to collaborate on interesting projects, discuss research ideas, or help with web development challenges!
 
 [![Website](https://img.shields.io/badge/🌐_Website-okraishan.com-3B82F6?style=for-the-badge)](https://okraishan.com)
-[![Email](https://img.shields.io/badge/📧_Email-obada.kraishan@ttu.edu-D14836?style=for-the-badge)](mailto:obada.kraishan@ttu.edu)
+[![Email](https://img.shields.io/badge/📧_Email-obada.kraishan@ttu.edu-D14836?style=for-the-badge)](mailto:me@okraishan.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/obadakraishan)
-[![Blog](https://img.shields.io/badge/📝_Blog-Momentum_Hub-10B981?style=for-the-badge)](https://okraishan.com/blog)
+[![Blog](https://img.shields.io/badge/📝_Blog-Momentum_Hub-10B981?style=for-the-badge)](https://momentumhub.blog/)
 
 </div>
 
@@ -234,11 +219,5 @@ I'm always excited to collaborate on interesting projects, discuss research idea
 ### 💭 Current Motto
 
 *"Transforming data into insights, code into solutions, and ideas into reality"*
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
-
-**Thanks for visiting! Feel free to explore my repositories and don't hesitate to reach out!** 🚀
 
 </div>
