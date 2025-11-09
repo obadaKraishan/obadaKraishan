@@ -1,9 +1,7 @@
-# Hey there! 👋 I'm Obada Kraishan
-
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Computational+Communication+Scholar+%F0%9F%93%8A;PhD+Student+%40+Texas+Tech+University+%F0%9F%8E%93)](https://git.io/typing-svg)
-
+<br>
 <p align="center">
   <a href="https://okraishan.com"><img src="https://img.shields.io/badge/Website-okraishan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/obadakraishan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
