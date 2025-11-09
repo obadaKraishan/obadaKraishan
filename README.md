@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://okraishan.com"><img src="https://img.shields.io/badge/Website-okraishan.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://linkedin.com/in/obadakraishan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:obada.kraishan@ttu.edu"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:me@okraishan.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
