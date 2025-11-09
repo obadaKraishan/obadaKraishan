@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **PhD student in Media and Communication** at Texas Tech University, where I bridge the fascinating worlds of **computational social science** and **software engineering**. My research focuses on AI-generated content, misinformation detection, and human-computer interaction, while my development work spans full-stack web applications, data analysis tools, and interactive educational platforms.
+I'm a **PhD student** at Texas Tech University, where I bridge the fascinating worlds of **computational social science** and **software engineering**. My research focuses on AI-generated content, misinformation detection, and human-computer interaction, while my development work spans full-stack web applications, data analysis tools, and interactive educational platforms.
 
 ### 🎓 What I Do
 
